@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile_go.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Andy and I'm a Software Engineer. As well as building and designing microservices I also have light experience in data analysis and a strong interest in the quantatative financial space. I have mostly worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning by doing and learning whatever technology was needed to do the job.
 
