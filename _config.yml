@@ -9,7 +9,7 @@ version: 2
 name: Andy Barajas
 title: Software Engineer / Data Analyst
 email: andy@barajas-research.com
-website: www.barajas123.github.io
+website: barajas123.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andy and I'm a Software Enginee. As well as building and designing microservices I also have light experience in data analysis and a strong interest in the quantatative financial space. I have mostly worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning by doing and learning whatever technology was needed to do the job.
+  Hi, my name's Andy and I'm a Software Engineer. As well as building and designing microservices I also have light experience in data analysis and a strong interest in the quantatative financial space. I have mostly worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning by doing and learning whatever technology was needed to do the job.
 
   I am most skilled in: <mark>Golang, Microservices, Docker, Docker Swarm, Kubernetes</mark> and <mark> Python </mark>
 
@@ -68,10 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This repo has come in handy plenty of times
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          This project was written to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -121,13 +120,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in microservices and software engineering some of my other interests and hobbies are:
       - Data Analysis
-      - ML / AI
-      - Youtube
-      - Making a difference
+      - Deep Neural Networks
+      - Watching Stats videos on YT
       - 3D Printing
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    
 
 # Footer
 footer_show_references: true
