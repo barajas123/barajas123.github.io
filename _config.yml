@@ -48,17 +48,17 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Andy and I'm a Software Enginee. As well as building and designing microservices I also have light experience in data analysis and a strong interest in the quantatative financial space. I have mostly worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning by doing and learning whatever technology was needed to do the job.
 
-  I am most skilled in: <mark>Golang, Microservices, Docker, K8s</mark> and <mark>Stock Analysis (Options) </mark>
+  I am most skilled in: <mark>Golang, Microservices, Docker, Docker Swarm, Kubernetes</mark> and <mark> Python </mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: go-lib-td-data
+        link: github.com/barajas123/go-lib-td-data
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -76,26 +76,46 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Barajas Research
+        link: 
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Software Engineer / Data Analys
+        caption: November 2018 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Data Analysis is much like looking for gold, at some point you just have to pick up the shovel and start digging.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+          Designing / Building / Maintaining ETL pipelines and microservices that are going to be provided to customer as a paid service.
+          Technologies used:
+          - Golang
+          - Docker Swarm
+          - Postgres
+          - Linode Cloud Services
+          - CentOS
+          - Python 
+          - VueJS
+          - Micoservices 
+          - Redis
+          - RabbitMQ
+          - Apache Kafka
+          - Zookeeper
       - layout: left
-        title: Western Governers
-        caption: 2019 - 2020
-        sub_title: BSc Computer Science
+        title: Polygon IO
+        link: polygon.io
+        # link_text: boringcompany.com
+        sub_title: Software Engineer
+        caption: April 2020 - May 2020
         quote: >
+          Democratizing financial data for the masses.
         description: | # this will include new lines to allow paragraphs
-          Spent most of my time learnin Data Structs and Algorithms
+          Providing data via REST endpoints and WSS. Maintaining legacy repositories and rewriting from NodeJs to Golang for improved efficiency and scale. Unit testing all repos and updating / adding documentation. 
+          Technologies used:
+          - Golang
+          - NodeJs
+          - Kubernetes
+          - Kafka
+          - MongoDB
+          - Drone CI / CD 
+                  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -104,6 +124,7 @@ content:
       - ML / AI
       - Youtube
       - Making a difference
+      - 3D Printing
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
