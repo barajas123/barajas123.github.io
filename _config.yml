@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_go.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andy and I'm a Software Engineer. As well as building and designing microservices I also have light experience in data analysis and a strong interest in the quantatative financial space. I have mostly worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning by doing and learning whatever technology was needed to do the job.
+  Hi, my name's Andy and I'm a Software Engineer. As well as building and designing microservices I also have some experience in data analysis and a strong interest in the quantatative financial space. I have worked on building my own ETL pipelines and services related to the Financial Sector. The last 3 years I've spent learning whatever technology was needed to do the job.
 
-  I am most skilled in: <mark>Golang, Microservices, Docker, Docker Swarm, Kubernetes</mark> and <mark> Python </mark>
+  I am skilled in: <mark>Golang, Microservices, Docker, Docker Swarm, Kubernetes</mark> and <mark> Python </mark>
 
 content:
   - title: Projects # Title for the section
@@ -68,9 +68,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This repo has come in handy plenty of times
+         This repo has come in handy plenty of times
         description: | # this will include new lines to allow paragraphs
-          This project was written to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
+         This project was written to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -80,10 +80,10 @@ content:
         # link_text: boringcompany.com
         sub_title: Software Engineer / Data Analyst
         caption: November 2018 - Present
-        quote: >
+        quote: > 
           Data Analysis is much like looking for gold, at some point you just have to pick up the shovel and start digging.
         description: | # this will include new lines to allow paragraphs
-          Designing / Building / Maintaining ETL pipelines and microservices that are going to be provided to customer as a paid service.
+         Designing / Building / Maintaining ETL pipelines and microservices that are going to be provided to customer as a paid service.
           Technologies used:
           - Golang
           - Docker Swarm
@@ -123,6 +123,7 @@ content:
       - Deep Neural Networks
       - Watching Stats videos on YT
       - 3D Printing
+      - Golfing
     
 
 # Footer
