@@ -70,7 +70,29 @@ content:
         quote: >
          This repo has come in handy plenty of times
         description: | # this will include new lines to allow paragraphs
-         This project was written to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
+         This project was aimed to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
+   - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: MatchingGame.Net
+        link: github.com/barajas123/MatchingGame.Net
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         This project was good practice to get the basics of C# down 
+        description: | # this will include new lines to allow paragraphs
+         The game consists of 16 square. All of which contain a matching icon. Steps ...
+          1. Click any square to reveal the icon
+          2. Click another square to reveal a second icon
+          3. If they match, they will stay revealed. if not, they are both covered once again
+          4. Keep playing until you match all square in a consecutive manner.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
