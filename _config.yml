@@ -98,7 +98,7 @@ content:
     content:
       - layout: top-middle
         title: LRU Cache
-        link: github.com/barajas123/baraja123
+        link: github.com/barajas123/legendary-sniffle
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
