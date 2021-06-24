@@ -93,6 +93,24 @@ content:
           2. Click another square to reveal a second icon
           3. If they match, they will stay revealed. if not, they are both covered once again
           4. Keep playing until you match all square in a consecutive manner.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: LRU Cache
+        link: github.com/barajas123/baraja123
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+         Implement LRU Cache
+        description: | # this will include new lines to allow paragraphs
+         This projects shows how to implement an In Memory Cache with a LRU policy. This is implemented using a doubly linked list as the underlying data structure.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
