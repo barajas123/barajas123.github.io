@@ -69,7 +69,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          This repo has come in handy plenty of times
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
          This project was aimed to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
       - layout: top-middle
         title: MatchingGame.Net
@@ -84,7 +84,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          This project was good practice to get the basics of C# down 
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
          The game consists of 16 square. All of which contain a matching icon
       - layout: top-middle
         title: LRU Cache
@@ -99,7 +99,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
          Implement LRU Cache
-        description: | # this will include new lines to allow paragraphs
+        description: # this will include new lines to allow paragraphs
          This projects shows how to implement an In Memory Cache with a LRU policy. This is implemented using a doubly linked list as the underlying data structure.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
