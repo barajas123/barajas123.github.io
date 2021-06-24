@@ -71,7 +71,6 @@ content:
          This repo has come in handy plenty of times
         description: | # this will include new lines to allow paragraphs
          This project was aimed to make future projects easier, allowing for easy Historical Price and real time price retrievel for real time analysis.
-    content:
       - layout: top-middle
         title: MatchingGame.Net
         link: github.com/barajas123/MatchingGame.Net
@@ -91,7 +90,6 @@ content:
           2. Click another square to reveal a second icon
           3. If they match, they will stay revealed. if not, they are both covered once again
           4. Keep playing until you match all square in a consecutive manner.
-    content:
       - layout: top-middle
         title: LRU Cache
         link: github.com/barajas123/legendary-sniffle
