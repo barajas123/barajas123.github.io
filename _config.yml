@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_go.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Andy and I'm a Software Engineer. I also build and design microservices with experience in data analysis and a strong interest in the quantatative space. I have worked on building my own ETL pipelines and services related to the Financial Sector. I have spent the last 3 years learning technologies that are needed to complete requirements.
+  Hi, my name's Andy and I'm a Software Engineer. I also build and design microservices with experience in data analysis and a strong interest in the quant space. I have worked on building my own ETL pipelines and services related to the Financial Sector. I have spent the last 3 years learning technologies that are needed to complete requirements.
 
   I am skilled in: <mark>Golang, Microservices, Docker, Docker Swarm, Kubernetes</mark> and <mark> Python </mark>
 
